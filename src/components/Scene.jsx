@@ -10,9 +10,6 @@ export default function Scene() {
             <Model />
         </ScrollControls>
         <ambientLight intensity={1.5} />
-        <Environment
-            files={"../models/abandoned_tiled_room_1k.hdr"}
-        />
-
+        <Environment files="/models/abandoned_tiled_room_1k.hdr" />
     </Canvas>
 }
