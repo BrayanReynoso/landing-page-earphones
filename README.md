@@ -2,7 +2,7 @@
 # Landing Page Earphones
 
 📱 **Landing Page de Auriculares**, construida con **React**, **Vite** y **Three.js**. Esta página está diseñada para ofrecer una experiencia visual interactiva, mostrando modelos 3D y animaciones.
-
+   🌐 [Prueba la Landing Page aquí](https://brayanreynoso.github.io/landing-page-earphones/)
 ## Características
 
 - 🌐 **Interactividad 3D**: Utiliza [Three.js](https://threejs.org/) y [React-Three/Fiber](https://github.com/utsuboco/react-three-fiber) para renderizar modelos 3D de auriculares y ofrecer una experiencia inmersiva.
